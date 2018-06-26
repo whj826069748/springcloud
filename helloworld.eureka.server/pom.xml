@@ -6,7 +6,7 @@
 	<artifactId>springcloud.helloworld.eureka.server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>springcloud.helloworld.Eureka.server</name>
+	<name>springcloud.helloworld.eureka.server</name>
 	<description>Demo Spring Eureka Server</description>
 
 	<parent>

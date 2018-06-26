@@ -6,7 +6,7 @@
 	<artifactId>springcloud.helloworld.config.server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>helloworld.config.server</name>
+	<name>springcloud.helloworld.config.server</name>
 	<description>Demo Config Server</description>
 
 	<parent>

@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/helloworld.eureka.client/pom.xml" />
         <option value="$PROJECT_DIR$/spring.cloud.config.server/pom.xml" />
         <option value="$PROJECT_DIR$/helloworld.config.client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring.cloud.config.client/pom.xml" />
       </list>
     </option>
   </component>

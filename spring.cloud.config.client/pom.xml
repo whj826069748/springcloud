@@ -4,7 +4,7 @@
 	<groupId>com.chry</groupId>
 	<artifactId>Springcloud.helloworld.config.client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Springcloud.helloworld.config.client</name>
+	<name>springcloud.helloworld.config.client</name>
 	<packaging>jar</packaging>
 	<description>Demo Spring Config Client</description>
 
@@ -38,6 +38,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 	</dependencies>
 
