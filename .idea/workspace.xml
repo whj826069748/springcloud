@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ba2892-26dd-4f03-9d0e-1c514508f587" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.zuul.service/src/main/java/com/example/springcloud/helloworld/zuul/service/DemoFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.zuul.service/src/main/java/com/example/springcloud/helloworld/zuul/service/SpringcloudHelloworldZuulServiceApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.zuul.service/src/test/java/com/example/springcloud/helloworld/zuul/service/SpringcloudHelloworldZuulServiceApplicationTests.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_httpclient___feign_httpclient_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springcloud.zuul.service/src/main/java/com/example/springhelloworldzuulservice/DemoFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springcloud.zuul.service/src/main/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springcloud.zuul.service/src/test/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplicationTests.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/DemoFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring.zuul.service/src/test/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplicationTests.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springcloud.feign.client/pom.xml" afterPath="$PROJECT_DIR$/springcloud.feign.client/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springcloud.feign.client/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring.zuul.service/.gitignore" afterPath="$PROJECT_DIR$/springcloud.zuul.service/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring.zuul.service/pom.xml" afterPath="$PROJECT_DIR$/springcloud.zuul.service/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring.zuul.service/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/springcloud.zuul.service/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/demo1/target/" />
@@ -164,40 +151,7 @@
           <expand>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud.zuul.service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud.zuul.service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud.zuul.service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud.zuul.service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud.zuul.service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud.zuul.service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud.feign.client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,7 +369,7 @@
       <workItem from="1530083480590" duration="62000" />
       <workItem from="1530083564703" duration="363000" />
       <workItem from="1530083951678" duration="301000" />
-      <workItem from="1530084283336" duration="82000" />
+      <workItem from="1530084283336" duration="182000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1530006024643</created>
@@ -431,14 +385,22 @@
       <option name="project" value="LOCAL" />
       <updated>1530082776766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1530084367682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530084367682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23933000" />
+    <option name="totallyTimeSpent" value="24033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -454,7 +416,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31770045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31770045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
