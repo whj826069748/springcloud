@@ -9,7 +9,7 @@ spring:
       name: service-feign
 
 feign:
-  httpclient:
-    enabled: true
+#  httpclient:
+#    enabled: true
   hystrix:
     enabled: true

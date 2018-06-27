@@ -17,6 +17,7 @@
         <module name="springcloud.helloworld.feign.client" />
         <module name="springcloud.helloworld.ribbon.service" />
         <module name="springcloud.ribbon.service" />
+        <module name="springcloud.zuul.service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,7 +33,9 @@
       <module name="springcloud.feign.client" target="1.8" />
       <module name="springcloud.helloworld.feign.client" target="1.8" />
       <module name="springcloud.helloworld.ribbon.service" target="1.8" />
+      <module name="springcloud.helloworld.zuul.service" target="1.8" />
       <module name="springcloud.ribbon.service" target="1.8" />
+      <module name="springcloud.zuul.service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
