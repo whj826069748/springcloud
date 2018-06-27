@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.feign:feign-httpclient:${feign-httpclient}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-httpclient/${feign-httpclient}/feign-httpclient-${feign-httpclient}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-httpclient/${feign-httpclient}/feign-httpclient-${feign-httpclient}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-httpclient/${feign-httpclient}/feign-httpclient-${feign-httpclient}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

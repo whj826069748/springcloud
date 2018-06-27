@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/helloworld.eureka.server/helloworld.eureka.server.iml" filepath="$PROJECT_DIR$/helloworld.eureka.server/helloworld.eureka.server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.cloud.config.client/spring.cloud.config.client.iml" filepath="$PROJECT_DIR$/spring.cloud.config.client/spring.cloud.config.client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.cloud.config.server/spring.cloud.config.server.iml" filepath="$PROJECT_DIR$/spring.cloud.config.server/spring.cloud.config.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.zuul.service/spring.zuul.service.iml" filepath="$PROJECT_DIR$/spring.zuul.service/spring.zuul.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.feign.client/springcloud.feign.client.iml" filepath="$PROJECT_DIR$/springcloud.feign.client/springcloud.feign.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.ribbon.service/springcloud.ribbon.service.iml" filepath="$PROJECT_DIR$/springcloud.ribbon.service/springcloud.ribbon.service.iml" />
     </modules>
   </component>
 </project>

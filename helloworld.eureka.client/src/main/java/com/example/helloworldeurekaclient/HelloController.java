@@ -10,8 +10,11 @@ public class HelloController {
     @Value("${server.port}")
     String port;
 
-    @RequestMapping("/")
+    @RequestMapping("/hello")
     public String home() {
+        if ("8762".equals(port)) {
+            throw new NullPointerException();
+        }
         return "hello world from port " + port;
     }
 }

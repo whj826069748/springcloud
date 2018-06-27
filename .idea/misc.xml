@@ -10,6 +10,11 @@
         <option value="$PROJECT_DIR$/spring.cloud.config.server/pom.xml" />
         <option value="$PROJECT_DIR$/helloworld.config.client/pom.xml" />
         <option value="$PROJECT_DIR$/spring.cloud.config.client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.helloworld.ribbon.service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.helloworld.feign.client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring.helloworld.zuul.service/pom.xml" />
       </list>
     </option>
   </component>

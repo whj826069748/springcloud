@@ -11,6 +11,12 @@
         <module name="helloworld.eureka.server" />
         <module name="spring.cloud.config.client" />
         <module name="spring.cloud.config.server" />
+        <module name="spring.helloworld.zuul.service" />
+        <module name="spring.zuul.service" />
+        <module name="springcloud.feign.client" />
+        <module name="springcloud.helloworld.feign.client" />
+        <module name="springcloud.helloworld.ribbon.service" />
+        <module name="springcloud.ribbon.service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +27,12 @@
       <module name="helloworld.eureka.server" target="1.8" />
       <module name="spring.cloud.config.client" target="1.8" />
       <module name="spring.cloud.config.server" target="1.8" />
+      <module name="spring.helloworld.zuul.service" target="1.8" />
+      <module name="spring.zuul.service" target="1.8" />
+      <module name="springcloud.feign.client" target="1.8" />
+      <module name="springcloud.helloworld.feign.client" target="1.8" />
+      <module name="springcloud.helloworld.ribbon.service" target="1.8" />
+      <module name="springcloud.ribbon.service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

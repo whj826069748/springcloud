@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ba2892-26dd-4f03-9d0e-1c514508f587" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_httpclient___feign_httpclient_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_0_RC1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_0_RC1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.zuul.service/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.zuul.service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/DemoFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.zuul.service/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.zuul.service/src/test/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/HelloWorldService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/HelloWorldServiceFailure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/SpringcloudHelloworldFeignClientApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/WebController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.feign.client/src/test/java/com/example/springcloudhelloworldfeignclient/SpringcloudHelloworldFeignClientApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/HelloController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/HelloService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/SpringcloudHelloworldRibbonServiceApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud.ribbon.service/src/test/java/com/example/springcloud/helloworld/ribbon/rvice/SpringcloudHelloworldRibbonServiceApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld.eureka.server/pom.xml" afterPath="$PROJECT_DIR$/helloworld.eureka.server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.cloud.config.client/pom.xml" afterPath="$PROJECT_DIR$/spring.cloud.config.client/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloController.java" afterPath="$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloworldConfigClientApplication.java" afterPath="$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloworldConfigClientApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.cloud.config.server/pom.xml" afterPath="$PROJECT_DIR$/spring.cloud.config.server/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloController.java" afterPath="$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/demo1/target/" />
@@ -20,6 +49,12 @@
     <ignored path="$PROJECT_DIR$/spring.cloud.config.server/target/" />
     <ignored path="$PROJECT_DIR$/helloworld.config.client/target/" />
     <ignored path="$PROJECT_DIR$/spring.cloud.config.client/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud.helloworld.ribbon.service/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud.ribbon.service/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud.helloworld.feign.client/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud.feign.client/target/" />
+    <ignored path="$PROJECT_DIR$/spring.helloworld.zuul.service/target/" />
+    <ignored path="$PROJECT_DIR$/spring.zuul.service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,42 +75,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/resources/application.yml">
+      <file leaf-file-name="SpringHelloworldZuulServiceApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="115">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helloworld.eureka.server/src/main/resources/application.yml">
+      <file leaf-file-name="HelloworldEurekaClientApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloworldEurekaClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring.cloud.config.server/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="253">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,7 +124,6 @@
         <option value="$PROJECT_DIR$/helloworld.eureka.server/src/main/java/com/example/helloworld/eureka/server/HelloworldEurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/helloworld.eureka.client/pom.xml" />
         <option value="$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloworldEurekaClientApplication.java" />
-        <option value="$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloController.java" />
         <option value="$PROJECT_DIR$/spring.cloud.config.server/src/main/java/com/example/springcloud/config/server/SpringCloudConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloController.java" />
         <option value="$PROJECT_DIR$/helloworld.eureka.server/pom.xml" />
@@ -112,8 +132,26 @@
         <option value="$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloworldConfigClientApplication.java" />
         <option value="$PROJECT_DIR$/helloworld.eureka.server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/helloworld.eureka.client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring.cloud.config.server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/RestRemplate.java" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/HelloController.java" />
+        <option value="$PROJECT_DIR$/springcloud.helloworld.feign.client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/SpringcloudHelloworldFeignClientApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/WebController.java" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/SpringcloudHelloworldRibbonServiceApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/HelloService.java" />
+        <option value="$PROJECT_DIR$/helloworld.eureka.client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloController.java" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/HelloWorldService.java" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/HelloWorldServiceFailure.java" />
+        <option value="$PROJECT_DIR$/springcloud.feign.client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring.zuul.service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplication.java" />
+        <option value="$PROJECT_DIR$/spring.zuul.service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/DemoFilter.java" />
       </list>
     </option>
   </component>
@@ -125,17 +163,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud.helloworld.config.client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud.helloworld.config.client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -162,7 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -199,104 +227,107 @@
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.zuul.service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.zuul.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.zuul.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.zuul.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld.eureka.server" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.zuul.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="springhelloworldzuulservice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.zuul.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.server" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud.feign.client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.server" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud.feign.client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.server" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud.feign.client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud.feign.client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud.feign.client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudhelloworldfeignclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud.ribbon.service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud.ribbon.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud.ribbon.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring.cloud.config.server" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud.ribbon.service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud.ribbon.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rvice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,7 +339,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring.cloud.config.client/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud.ribbon.service/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -327,7 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaClient">
+  <component name="RunManager" selected="Application.ZuulService">
     <configuration name="ConfigClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.helloworld.config.client.HelloworldConfigClientApplication" />
@@ -342,7 +373,7 @@
       <module name="spring.cloud.config.server" />
       <envs />
     </configuration>
-    <configuration name="EurekaClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="EurekaClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.helloworldeurekaclient.HelloworldEurekaClientApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -354,6 +385,63 @@
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.helloworld.eureka.server.HelloworldEurekaServerApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <module name="helloworld.eureka.server" />
+      <envs />
+    </configuration>
+    <configuration name="FeignClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloudhelloworldfeignclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloudhelloworldfeignclient.SpringcloudHelloworldFeignClientApplication" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="springcloud.feign.client" />
+      <envs />
+    </configuration>
+    <configuration name="RibbonService" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloud.helloworld.ribbon.rvice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloud.helloworld.ribbon.rvice.SpringcloudHelloworldRibbonServiceApplication" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="springcloud.ribbon.service" />
+      <envs />
+    </configuration>
+    <configuration name="ZuulService" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springhelloworldzuulservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.springhelloworldzuulservice.SpringHelloworldZuulServiceApplication" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring.zuul.service" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -449,12 +537,22 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaServer" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaClient" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.ConfigClient" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.ConfigServer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RibbonService" />
+      <item index="5" class="java.lang.String" itemvalue="Application.FeignClient" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ZuulService" />
     </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ZuulService" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FeignClient" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RibbonService" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -468,12 +566,22 @@
       <updated>1529980148651</updated>
       <workItem from="1529980151814" duration="5407000" />
       <workItem from="1530002814354" duration="273000" />
-      <workItem from="1530003112865" duration="2512000" />
+      <workItem from="1530003112865" duration="2902000" />
+      <workItem from="1530059742701" duration="3778000" />
+      <workItem from="1530063951493" duration="7308000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1530006024643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530006024644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10999000" />
+    <option name="totallyTimeSpent" value="22475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -488,12 +596,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5493421" sideWeight="0.46293494" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46875" sideWeight="0.537065" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6825658" sideWeight="0.537065" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26928896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -501,7 +609,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5542763" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -516,48 +624,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.eureka.server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,10 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,13 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -761,38 +829,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloworldEurekaClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloworldConfigClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,23 +840,210 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring.cloud.config.server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/RestRemplate.java" />
+    <entry file="file://$PROJECT_DIR$/spring.cloud.config.client/src/main/java/com/example/helloworld/config/client/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.ribbon.service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.feign.client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.ribbon.service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/HelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/HelloWorldServiceFailure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.feign.client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.zuul.service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.feign.client/src/main/java/com/example/springcloudhelloworldfeignclient/SpringcloudHelloworldFeignClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud.ribbon.service/src/main/java/com/example/springcloud/helloworld/ribbon/rvice/SpringcloudHelloworldRibbonServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.zuul.service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.zuul.service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/DemoFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.zuul.service/src/main/java/com/example/springhelloworldzuulservice/SpringHelloworldZuulServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld.eureka.client/src/main/java/com/example/helloworldeurekaclient/HelloworldEurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
